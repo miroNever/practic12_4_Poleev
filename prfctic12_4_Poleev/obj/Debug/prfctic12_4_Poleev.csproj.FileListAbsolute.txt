@@ -1,0 +1,11 @@
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\bin\Debug\prfctic12_4_Poleev.exe.config
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\bin\Debug\prfctic12_4_Poleev.exe
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\bin\Debug\prfctic12_4_Poleev.pdb
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\obj\Debug\prfctic12_4_Poleev.csproj.AssemblyReference.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\obj\Debug\prfctic12_4_Poleev.csproj.SuggestedBindingRedirects.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\obj\Debug\prfctic12_4_Poleev.Form1.resources
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\obj\Debug\prfctic12_4_Poleev.Properties.Resources.resources
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\obj\Debug\prfctic12_4_Poleev.csproj.GenerateResource.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\obj\Debug\prfctic12_4_Poleev.csproj.CoreCompileInputs.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\obj\Debug\prfctic12_4_Poleev.exe
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\prfctic12_4_Poleev\obj\Debug\prfctic12_4_Poleev.pdb
